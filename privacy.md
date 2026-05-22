@@ -1,12 +1,12 @@
-# Privacy Policy — Collect your chaos
+# Privacy Policy — Drama Deck
 
-_Last updated: 2026-05-19_
+_Last updated: 2026-05-22_
 
-Collect your chaos is built around a simple promise: **what happens on your phone stays on your phone.**
+Drama Deck is built around a simple promise: **what happens on your phone stays on your phone.**
 
 ## Data we collect
 
-**None.** Collect your chaos does not collect, transmit, store, or share any personal data.
+**None.** Drama Deck does not collect, transmit, store, or share any personal data.
 
 - We have no server.
 - We use no analytics SDKs.
@@ -15,17 +15,17 @@ Collect your chaos is built around a simple promise: **what happens on your phon
 
 ## What happens locally on your device
 
-Collect your chaos stores app state (your settings, history, scores, in-app purchase records) in your device's local storage. This data never leaves your phone. If you uninstall the app, this data is deleted with it.
+Drama Deck stores app state (your settings, history, scores, in-app purchase records) in your device's local storage. This data never leaves your phone. If you uninstall the app, this data is deleted with it.
 
-If you tap a Share button in the app, it opens your device's system share sheet so you can send content somewhere yourself. Collect your chaos does not initiate any sharing without your explicit tap.
+If you tap a Share button in the app, it opens your device's system share sheet so you can send content somewhere yourself. Drama Deck does not initiate any sharing without your explicit tap.
 
 ## In-app purchases
 
-In-app purchases are processed by Apple (App Store) or Google (Google Play). Collect your chaos receives only the purchase result; it does not see your payment details. Purchase IDs are stored locally in order to validate restores and prevent double-grants.
+In-app purchases are processed by Apple (App Store) or Google (Google Play). Drama Deck receives only the purchase result; it does not see your payment details. Purchase IDs are stored locally in order to validate restores and prevent double-grants.
 
 ## Children
 
-Collect your chaos is not directed at children under 13. We do not knowingly collect data from anyone.
+Drama Deck is not directed at children under 13. We do not knowingly collect data from anyone.
 
 ## Changes to this policy
 
